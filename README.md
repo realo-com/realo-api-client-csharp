@@ -2,6 +2,8 @@
 
 # RealoAPI for Dotnet Core in C#
 
+> This repository is a copy of [stefaandevylder/RealoAPI](https://github.com/stefaandevylder/RealoAPI) by Stefaan De Vylder, published under the MIT license (see [LICENSE](LICENSE)). All credit for the library goes to the original author. Sibling clients: [PHP](https://github.com/realo-com/api-client-php), [Python](https://github.com/realo-com/api-client-python).
+
 An unofficial .NET wrapper for the Realo.be API.
 
 ## Contributions
